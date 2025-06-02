@@ -1,0 +1,10 @@
+
+#change to this directory
+cd fastAPI/users_auth
+
+#run main.py with -
+uvicorn main:app --reload
+
+
+# you can activate vitual env. to access interpreter 
+.venv\Scripts\activate 
