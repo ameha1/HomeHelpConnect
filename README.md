@@ -1,6 +1,6 @@
 # HomeHelp - Service Provider Platform
 
-HomeHelp is a modern web application that connects homeowners with service providers. Built with Next.js, TypeScript, and Tailwind CSS.
+HomeHelp is a modern web application that connects homeowners with service providers. Built with Next.js, TypeScript, Tailwind CSS and fastAPI.
 
 ## Features
 
@@ -20,6 +20,7 @@ HomeHelp is a modern web application that connects homeowners with service provi
 - Shadcn UI
 - Prisma
 - PostgreSQL
+- fastAPI
 
 ## Getting Started
 
