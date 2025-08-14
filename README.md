@@ -2,25 +2,65 @@
 
 HomeHelp is a modern web application that connects homeowners with service providers. Built with Next.js, TypeScript, Tailwind CSS and fastAPI.
 
-## Features
+Key Features
+For Homeowners:
 
-- User Authentication (Homeowners and Service Providers)
-- Service Provider Management
-- Booking System
-- Real-time Messaging
-- Rating and Review System
-- Admin Dashboard
-- Responsive Design
+    Search & Discovery: Find local service providers by service type, location, and ratings
 
-## Tech Stack
+    Verified Professionals: All providers undergo a verification process
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
-- Prisma
-- PostgreSQL
-- fastAPI
+    Booking System: Schedule services directly through the platform
+
+    Reviews & Ratings: Share experiences and read feedback from others
+
+    Service Tracking: Monitor ongoing service requests
+
+For Service Providers:
+
+    Professional Profiles: Showcase services, experience, and certifications
+
+    Request Management: Receive and respond to service inquiries
+
+    Availability Calendar: Set working hours and manage appointments
+
+    Business Analytics: Track performance metrics and customer feedback
+
+    Document Verification: Secure submission of professional credentials
+
+Technical Implementation
+Frontend:
+
+    Built with Next.js (React) for server-side rendering
+
+    Responsive UI with Tailwind CSS
+
+    Form handling with React Hook Form and Zod validation
+
+    State management using React Context
+
+    Interactive maps for location-based services
+
+Backend:
+
+    Python FastAPI for RESTful API endpoints
+
+    PostgreSQL database with Psycopg2
+
+    AI-powered recommendation system using Google's Gemini API
+
+    JWT authentication for secure access
+
+    File storage for documents and images
+
+AI Integration:
+
+    Natural language processing for service matching
+
+    Location extraction from addresses
+
+    Conversational interface for queries
+
+    Smart recommendation algorithms
 
 ## Getting Started
 
